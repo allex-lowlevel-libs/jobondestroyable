@@ -1,0 +1,28 @@
+{
+  "name": "allex_jobondestroyablelowlevellib",
+  "version": "1.0.0",
+  "description": "AllexJS low level lib for Job on Destroyable/ComplexDestroyable",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/jobondestroyable.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "job",
+    "on",
+    "destroyable",
+    "low",
+    "level",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/jobondestroyable/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/jobondestroyable#readme"
+}
